@@ -1,5 +1,5 @@
 # media-queries-css3
-Top popular device sizes 🖥️📱
+Media queries is a feature of CSS 3 allowing content rendering to adapt to different conditions such as screen resolution (e.g. mobile and desktop screen size). 
 
 - ` media (min-width:320px)  { smartphones, iPhone, portrait 480x320 phones }`
 
